@@ -1,0 +1,33 @@
+country,code,state,category,total producted
+Mexico,AGS,Aguascalientes,state,78230
+Mexico,BC,Baja California,state,42341
+Mexico,BCS,Baja California Sur,state,13163
+Mexico,CAMP,Campeche,state,5625
+Mexico,COAH,Coahuila,state,236789
+Mexico,COL,Colima,state,7424
+Mexico,CHIS,Chiapas,state,31244
+Mexico,CHIH,Chihuahua,state,284766
+Mexico,CDMX,Ciudad de México,state,5354
+Mexico,DGO,Durango,state,291866
+Mexico,GTO,Guanajuato,state,194693
+Mexico,GRO,Guerrero,state,19379
+Mexico,HGO,Hidalgo,state,199068
+Mexico,JAL,Jalisco,state,352461
+Mexico,MEX,Edo. de México,state,106794
+Mexico,MICH,Michoacán,state,62682
+Mexico,MOR,Morelos,state,497
+Mexico,NAY,Nayarit,state,15418
+Mexico,NL,Nuevo León,state,13984
+Mexico,OAX,Oaxaca,state,21680
+Mexico,PUE,Puebla,state,175961
+Mexico,QRO,Querétaro,state,112940
+Mexico,QR,Quintana Roo,state,350
+Mexico,SLP,San Luis Potosí,state,17465
+Mexico,SIN,Sinaloa,state,18157
+Mexico,SON,Sonora,state,18922
+Mexico,TAB,Tabasco,state,14822
+Mexico,TAMS,Tamaulipas,state,804
+Mexico,TLAX,Tlaxcala,state,14970
+Mexico,VER,Veracruz,state,60432
+Mexico,YUC,Yucatán,state,4056
+Mexico,ZAC,Zacatecas,state,84143
